@@ -7,7 +7,7 @@ Excited to collaborate and learn together!
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannelysbeth&theme=blue-green)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dannelysbeth)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dannelysbeth)](https://git.io/streak-stats)
 
 
 
